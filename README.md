@@ -54,24 +54,14 @@ The Random Forest model identified several major predictors of team success:
 
 ---
 
-## Repository Structure
-nba-win-prediction/
-│
-├── data/ # Cleaned or sample datasets
-├── notebook/ # Jupyter Notebook (full project)
-├── images/ # Exported Altair charts (optional)
-└── README.md # Project documentation
-
----
-
-## 📦 Files
+## Files
 - **COP4283_Final_Report.ipynb** — full end-to-end notebook  
-- **TeamStatistics_clean.csv** or sample — processed dataset  
-- Visualizations, charts, and exported figures (optional)
+- **TeamStatistics_clean.csv** — processed dataset  
+- Visualizations, charts, and exported figures 
 
 ---
 
-## 🏁 Summary
+## Summary
 This project demonstrates a complete machine-learning workflow applied to sports analytics, achieving near-perfect predictive accuracy. It highlights the importance of efficiency, turnovers, and net rating in determining NBA team success and provides a strong portfolio example of data cleaning, feature engineering, predictive modeling, and visualization.
 
 ---
